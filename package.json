@@ -1,0 +1,10 @@
+{
+  "name": "BigVideo",
+  "homepage": "http://dfcb.github.com/BigVideo.js/",
+  "authors": [
+    "John Polacek <john@johnpolacek.com>"
+  ],
+  "description": "The jQuery Plugin for Big Background Video (and Images)",
+  "main": "lib/bigvideo.js",
+  "private": true
+}
